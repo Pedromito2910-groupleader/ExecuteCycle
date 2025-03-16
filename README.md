@@ -1,2 +1,2 @@
-# LAB_14
+# ExecuteCycle
 ## Algoritimo que possibilita executar um ciclo.
